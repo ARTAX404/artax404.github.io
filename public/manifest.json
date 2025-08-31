@@ -1,0 +1,27 @@
+{
+  "name": "ARTAX404 - Créateur de sites & apps",
+  "short_name": "ARTAX404",
+  "description": "Portfolio d'ARTAX404 - Développeur web, créateur de PWA, monteur vidéo, créateur de jeux et community manager",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/Logo_ARTAX.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/Logo_ARTAX.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities"],
+  "lang": "fr",
+  "dir": "ltr"
+}
